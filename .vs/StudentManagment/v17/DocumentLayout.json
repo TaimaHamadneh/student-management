@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taima\\Desktop\\StudentManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2B52B5-D1B4-4D25-B284-0CF53DA0E649}|StudentManagment\\StudentManagment.csproj|c:\\users\\taima\\desktop\\studentmanagment\\studentmanagment\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2B52B5-D1B4-4D25-B284-0CF53DA0E649}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2B52B5-D1B4-4D25-B284-0CF53DA0E649}|StudentManagment\\StudentManagment.csproj|c:\\users\\taima\\desktop\\studentmanagment\\studentmanagment\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2B52B5-D1B4-4D25-B284-0CF53DA0E649}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2B52B5-D1B4-4D25-B284-0CF53DA0E649}|StudentManagment\\StudentManagment.csproj|c:\\users\\taima\\desktop\\studentmanagment\\studentmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2B52B5-D1B4-4D25-B284-0CF53DA0E649}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2B52B5-D1B4-4D25-B284-0CF53DA0E649}|StudentManagment\\StudentManagment.csproj|c:\\users\\taima\\desktop\\studentmanagment\\studentmanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA2B52B5-D1B4-4D25-B284-0CF53DA0E649}|StudentManagment\\StudentManagment.csproj|solutionrelative:studentmanagment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\taima\\Desktop\\StudentManagment\\StudentManagment\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagment\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\taima\\Desktop\\StudentManagment\\StudentManagment\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagment\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:59:13.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\taima\\Desktop\\StudentManagment\\StudentManagment\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagment\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\taima\\Desktop\\StudentManagment\\StudentManagment\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagment\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:54:13.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\taima\\Desktop\\StudentManagment\\StudentManagment\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagment\\appsettings.json",
+              "ToolTip": "C:\\Users\\taima\\Desktop\\StudentManagment\\StudentManagment\\appsettings.json",
+              "RelativeToolTip": "StudentManagment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T14:40:42.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\taima\\Desktop\\StudentManagment\\StudentManagment\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagment\\Program.cs",
+              "ToolTip": "C:\\Users\\taima\\Desktop\\StudentManagment\\StudentManagment\\Program.cs",
+              "RelativeToolTip": "StudentManagment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:39:46.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
